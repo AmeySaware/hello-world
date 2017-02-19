@@ -2,4 +2,4 @@
 Just another repository
 
 Amey Saware
-Ameture programmer
+Amateur programmer
